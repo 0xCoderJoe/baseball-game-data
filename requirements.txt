@@ -1,0 +1,6 @@
+pybaseball
+pandas
+requests
+jupyter
+ipykernel
+python-dotenv

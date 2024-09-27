@@ -1,0 +1,7 @@
+.env
+venv
+cookie.json
+notes.txt
+2024_*
+.ipynb_checkpoints
+master_set.csv
