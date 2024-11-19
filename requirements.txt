@@ -4,3 +4,4 @@ requests
 jupyter
 ipykernel
 python-dotenv
+hvac
