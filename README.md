@@ -1,6 +1,6 @@
 # Baseball Data
 
-A Jupyter notebook style data provider that uses the PyBaseball library to grab game history. Then, cleans the data provided and results in a data set ready for writing queries against to statstics. 
+A Jupyter notebook style data provider that uses the PyBaseball library to grab game history. Then, cleans the data provided and results in a data set ready for writing queries against to generate statstics. 
 
 The notebook is heavily explained and provides an example of a frequency analysis for games ending in the total amount of runs over the course of the season. The intent is to offer ideas to the analyst.
 
